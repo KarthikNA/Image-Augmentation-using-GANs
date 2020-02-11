@@ -77,3 +77,5 @@ Simple Augmentation Techniques
 All the simple augmentation techniques are individual Google Colab notebook and can be executed online by running each cell. !nvidia-smi command would help to identify the GPU details and it has been added to all the colab files. Each file would take approximately 20-40 minutes to execute.
 CIFAR-10 Dataset is directly used from from torchvision.datasets library.
 NOTE - We have used existing implementations of various augmentation techniques that is available only to do performance testing. The code is curated from multiple sources and modified to support performance testing.
+
+Google Colab version of Code is available on https://drive.google.com/drive/folders/1IeX21no4TDUMYwQjqcFWK7eNWSRcBH7J?usp=sharing
